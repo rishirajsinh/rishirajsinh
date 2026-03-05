@@ -170,6 +170,9 @@ I am a **full-stack developer** skilled in both front-end and back-end developme
   <a href="https://rishirajsinh-rathod.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-8245EC?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>&nbsp;
+  <a href="https://www.youtube.com/@rishirajsinh6665" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>&nbsp;
   <a href="mailto:rishirajsinh.rathod.cg@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
