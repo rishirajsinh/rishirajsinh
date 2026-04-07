@@ -83,7 +83,7 @@ I am a **full-stack developer** skilled in both front-end and back-end developme
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,ts&theme=dark" alt="Languages"/>
 </p>
 
 ### 🔧 Tools & Platforms
