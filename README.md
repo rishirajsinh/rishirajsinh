@@ -9,6 +9,10 @@
   </a>
 
 </div>
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishirajsinh&color=8245EC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
 
 <!-- About Me Section -->
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About Me
@@ -31,123 +35,6 @@ I am a **full-stack developer** skilled in both front-end and back-end developme
 <br clear="both"/>
 
 ---
-
-<!-- Tech Stack Section -->
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend Skills"/>
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase&theme=dark" alt="Backend Skills"/>
-</p>
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts&theme=dark" alt="Languages"/>
-</p>
-
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify&theme=dark" alt="Tools"/>
-</p>
-
-</div>
-
----
-
-<!-- Projects Section -->
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-### 🎮 [Game HUB](https://rishi-game-hub.netlify.app)
-<p align="center">
-  <a href="https://rishi-game-hub.netlify.app">
-    <img src="https://repository-images.githubusercontent.com/572700023/ccb4eea4-c136-4059-8982-51dc732f42c4" width="100%" alt="Game HUB"/>
-  </a>
-</p>
-<p>A GameHub platform featuring <b>six interactive games</b> with smooth gameplay, responsive design, and an intuitive UI.</p>
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-<p>
-  <a href="https://github.com/rishirajsinh/Great_Games"><img src="https://img.shields.io/badge/View_Code-8245EC?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://rishi-game-hub.netlify.app"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-</p>
-</td>
-<td width="50%">
-
-### 🚗 [Tata Motors Clone](https://108580-tatamotors.netlify.app/)
-<p align="center">
-  <a href="https://108580-tatamotors.netlify.app/">
-    <img src="https://www.tatamotors.com/wp-content/themes/TataMotors/images/Tata-Motors-thumbnail-og.jpg" width="100%" alt="Tata Motors Clone"/>
-  </a>
-</p>
-<p>A pixel-perfect <b>Tata Motors website clone</b> with clean layout, structured sections, and responsive design.</p>
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
-<p>
-  <a href="https://github.com/rishirajsinh/108580-tatamotors"><img src="https://img.shields.io/badge/View_Code-8245EC?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://108580-tatamotors.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 [Zepto Clone](https://108580-zepto.netlify.app/)
-<p align="center">
-  <a href="https://108580-zepto.netlify.app/">
-    <img src="https://res.cloudinary.com/dqezedzto/image/upload/v1767944265/ZEPTO2_ntesy4.avif" width="100%" alt="Zepto Clone"/>
-  </a>
-</p>
-<p>A Zepto website clone with <b>clean layout, well-structured sections</b>, and responsive design across devices.</p>
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
-<p>
-  <a href="https://github.com/rishirajsinh/108580-zepto"><img src="https://img.shields.io/badge/View_Code-8245EC?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://108580-zepto.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-</p>
-</td>
-<td width="50%">
-
-### 🏠 [NoBroker Clone](https://108580-nobroker.netlify.app/)
-<p align="center">
-  <a href="https://108580-nobroker.netlify.app/">
-    <img src="https://res.cloudinary.com/dqezedzto/image/upload/v1767944350/1200x630wa_b2tvqj.jpg" width="100%" alt="NoBroker Clone"/>
-  </a>
-</p>
-<p>A NoBroker clone with <b>well-organized structure</b>, consistent styling, and smooth cross-device experience.</p>
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
-<p>
-  <a href="https://github.com/rishirajsinh/108580-nobroker"><img src="https://img.shields.io/badge/View_Code-8245EC?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://108580-nobroker.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-</p>
-</td>
-</tr>
-</table>
-</div>
-
----
-
 <!-- Connect Section -->
 ## 🤝 Connect With Me
 
@@ -178,12 +65,37 @@ I am a **full-stack developer** skilled in both front-end and back-end developme
   </a>
 </div>
 
+
+<!-- Tech Stack Section -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" alt="Frontend Skills"/>
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase&theme=dark" alt="Backend Skills"/>
+</p>
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts&theme=dark" alt="Languages"/>
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify&theme=dark" alt="Tools"/>
+</p>
+
+</div>
+
 ---
 
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishirajsinh&color=8245EC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-</div>
+
 
 
 
